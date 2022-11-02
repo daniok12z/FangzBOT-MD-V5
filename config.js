@@ -36,10 +36,10 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 // Kalau gapunya di biarin aja!, atau ga di kasih tanda '-'
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/fangzganz?igshid=YmMyMTA2M2Y=' //Instagram mu
+global.sig = 'https://instagram.com/ndenn_xv=' //Instagram mu
 global.sgh = 'https://github.com/Fangzbotz2007' //Github mu
-global.sgc = 'https://chat.whatsapp.com/HpxyS6b45SoGIKG7LHddiM' //Group WhatsApp mu
-global.sdc = 'https://youtube.com/channel/UCACHvReRmw2fxgMutPFCBWg' //Discord Mu
+global.sgc = '-' //Group WhatsApp mu
+global.sdc = '-' //Discord Mu
 global.snh = 'https://nhentai.net/g/365296/' //Make ini ana gausah di ganti.
 
 /*⫘⫘⫘⫘ALL PAYMENT⫘⫘⫘⫘⫘*/
@@ -51,18 +51,18 @@ global.ppulsa2 = '0895394988123' //Pulsa, Kalau nomor cuma 1, yg ini kasih tanda
 global.psaweria = 'https://saweria.co/FangzBot' //Saweria
 
 /*⫘⫘⫘⫘ GLOBAL NOMOR ⫘⫘⫘⫘⫘*/
-global.nomorbot = '62895394988123' //Nomor Bot mu
-global.nomorown = '6288215689772' //Nomormu
-global.namebot = 'Fangz BOT' //Nama bot mu
-global.nameown = 'Fangz Ganz' //Nama mu
+global.nomorbot = '6285694795451' //Nomor Bot mu
+global.nomorown = '6281280860192' //Nomormu
+global.namebot = '𝓜𝓲𝓴𝓪𝓬𝓱𝓾 𝓑𝓸𝓽' //Nama bot mu
+global.nameown = '𝓜𝓲𝓴𝓪𝓬𝓱𝓾' //Nama mu
 
 
 /*⫘⫘⫘⫘ STAFF ⫘⫘⫘⫘⫘*/
 global.owner = [
-  ['6288215689772'], //Owner1
-  ['6285335877178'], //Owner2
-  ['6288215689772'], //Owner3
-  ['6288215689772', 'FANGZ ! 🥶', true] //Ini buat kamu!
+  ['6281280860292'], //Owner1
+  ['6281280860292'], //Owner2
+  ['6281280860292'], //Owner3
+  ['6281280860292', '𝓜𝓲𝓴𝓪𝓬𝓱𝓾 ! 🥶', true] //Ini buat kamu!
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -111,13 +111,13 @@ global.APIKeys = { // APIKey Here
 
 /*⫘⫘⫘⫘ WATERMAK ⫘⫘⫘⫘⫘*/
 //GANTI JANGAN NGASAL.
-global.wm = '                「 Fangz BOT ⁩இ 」' //Wm
-global.wm2 = '➳༻❀Fangz - Ganz❁ུ۪۪.;:୭̥.' //Name Wm
-global.wm3 = '⫹⫺ Fangz 𝗕𝗢𝗧'
+global.wm = '                「 𝓜𝓲𝓴𝓪𝓬𝓱𝓾 𝓑𝓸𝓽 ⁩இ 」' //Wm
+global.wm2 = '➳༻❀𝓜𝓲𝓴𝓪𝓬𝓱𝓾❁ུ۪۪.;:୭̥.' //Name Wm
+global.wm3 = '⫹⫺ 𝓜𝓲𝓴𝓪𝓬𝓱𝓾 𝓑𝓸𝓽'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = '𝗬𝗧: FANGZ BOT' //Titlenya
-global.author = '                ✧ Fangz BOT⁩ ✧' //Wm author
+global.titlebot = '𝗬𝗧: 𝓜𝓲𝓴𝓪𝓬𝓱𝓾 𝓑𝓸𝓽' //Titlenya
+global.author = '                ✧ 𝓜𝓲𝓴𝓪𝓬𝓱𝓾 𝓑𝓸𝓽⁩ ✧' //Wm author
 
 
 /*⫘⫘⫘⫘ LOGO ⫘⫘⫘⫘⫘*/
